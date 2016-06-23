@@ -1,0 +1,24 @@
+body {
+  background-color: #FFC56B;
+  color: white;
+  font-family: futura;
+  Font-weight: medium;
+  cursor: pointer;
+}
+a { 
+  color: white;
+}
+
+h1 {
+  font-size: 40px;
+  color: white;
+}
+
+li {
+  font-style: italic;
+}
+
+h3{
+  text-decoration: ;
+  font-weight: bold;
+}
