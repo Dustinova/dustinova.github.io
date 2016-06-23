@@ -2,11 +2,13 @@ body {
   background-color: #FFC56B;
   color: white;
   font-family: futura;
-  Font-weight: medium;
+  font-style: medium;
   cursor: pointer;
+  text-align: center;
 }
 a { 
   color: white;
+  
 }
 
 h1 {
